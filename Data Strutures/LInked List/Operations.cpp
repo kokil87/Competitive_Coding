@@ -9,7 +9,8 @@ struct node {
 
 class linked_list
 {
- private: int *head, *tail;
+ private: 
+ node *head, *tail;
  public: 
  linked_list()
   {
