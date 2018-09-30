@@ -1,5 +1,7 @@
 
-#include <stdio.h> 
+#include <iostream> 
+
+using namespace std;
   
 // Returns count of ways to reach n-th stair 
 // using 1 or 2 or 3 steps. 
@@ -20,6 +22,6 @@ int findStep(int n)
 int main() 
 { 
     int n = 4; 
-    printf("%d\n", findStep(n)); 
+    cout<< findStep(n); 
     return 0; 
 } 
