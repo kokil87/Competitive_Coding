@@ -1,2 +1,1 @@
-# Competitive_Coding
-ALL VARIOUS PROGRAMMING PROBLEMS IN C++ , THAT I HAVE EVER SOLVED 
+In case one wanna a structure for his problem-solving uploads, just clone and build over it.
